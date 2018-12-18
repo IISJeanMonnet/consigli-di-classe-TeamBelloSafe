@@ -1,0 +1,7 @@
+LINEE BASE:
+
+La gestione di questa applicazione deve essere effettuata tramite l'utilizzo di un databale MySQL, il collegamento - tramite netBeans -
+con un software java che permetta lo scambio delle informazioni in un sistema client-server.
+
+Dal lato client sarà necessaria un'interfaccia per il colloquio con l'utente che disporrà oltre di un calendario relativo alle varie attività 
+scolastiche anche di uno spazio di file sharing, con la possibilità di condividere le informazioni e file con altri utenti. 
